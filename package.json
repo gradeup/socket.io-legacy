@@ -1,0 +1,29 @@
+{
+	"name": "@gradeup/socket-io-legacy",
+	"version": "0.0.0",
+	"description": "Re exported legacy socket libs",
+	"license": "MIT",
+	"repository": "gradeup/socket-io-legacy",
+	"author": {
+		"name": "Nikhil Srivastava",
+		"email": "niksrc@gmail.com",
+		"url": "gradeup.github.io"
+	},
+	"engines": {
+		"node": ">=4"
+	},
+	"files": [
+		"index.js"
+	],
+	"keywords": [
+		"legacy support socketio"
+	],
+	"dependencies": {
+		"socket.io": "^1.4.5",
+		"socket.io-emitter": "^1.0.0",
+		"socket.io-redis": "^1.0.0"
+	},
+	"devDependencies": {
+		"xo": "^0.18.2"
+	}
+}
