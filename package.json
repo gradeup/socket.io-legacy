@@ -1,6 +1,6 @@
 {
 	"name": "@gradeup/socket-io-legacy",
-	"version": "0.0.0",
+	"version": "1.0.0",
 	"description": "Re exported legacy socket libs",
 	"license": "MIT",
 	"repository": "gradeup/socket-io-legacy",
